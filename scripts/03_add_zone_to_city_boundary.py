@@ -7,6 +7,7 @@ necessary_columns = [
     "CITY_NAME",
     "GST_NAME",
     "CSS_NAME",
+    "S_NAME",
     "AREA",
     "X_CODE",
     "Y_CODE",
